@@ -1,2 +1,2 @@
-# km100.testing
-Teszt karakterek km100 szerepjáték rendszerhez.
+# szilankrpg.testing
+Teszt karakterek Szilánk RPG szerepjáték rendszerhez.
